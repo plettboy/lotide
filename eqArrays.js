@@ -3,4 +3,4 @@ const eqArrays = function(arr1, arr2) {
 };
 
 
-console.log(eqArrays([1], [2]));
+console.log(eqArrays([1], [2])); 
