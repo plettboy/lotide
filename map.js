@@ -1,4 +1,4 @@
-
+//will be implemented into assert equals
 
 const map = function(array, callback) {
     const results = [];
