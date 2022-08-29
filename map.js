@@ -1,4 +1,4 @@
-//will be implemented into assert equals
+
 
 const map = function(array, callback) {
     const results = [];
@@ -7,5 +7,7 @@ const map = function(array, callback) {
     }
     return results;
   }
-//test case
+
   const words = ["ground", "control", "to", "major", "tom"];
+
+//Test cases

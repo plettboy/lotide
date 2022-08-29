@@ -1,5 +1,4 @@
-
-let emoji = String.fromCodePoint(0x1F621);
+let emoji = String.fromCodePoint(0x1f621);
 
 const assertEqual = function (actual, expected) {
   if (actual === expected) {
@@ -10,4 +9,5 @@ const assertEqual = function (actual, expected) {
 };
 assertEqual("Lighthouse Labs", "Bootcamp");
 assertEqual(1, 1);
-assertEqual(1, '1');
+
+module.exports = assertEqual;
